@@ -1,0 +1,15 @@
+{
+  "name": "themify-icons-scss",
+  "version": "1.0.0",
+  "description": "Font and SCSS files for the font Themify",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frolki1-Dev/themify-icons-sass.git"
+  },
+  "author": "Frank Giger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frolki1-Dev/themify-icons-sass/issues"
+  },
+  "homepage": "https://github.com/Frolki1-Dev/themify-icons-sass#readme"
+}
